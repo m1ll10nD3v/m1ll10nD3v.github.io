@@ -1,12 +1,26 @@
 body{
-	background-color: black;
+	background: linear-gradient(#222222, #000000);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 h1{
 	color: white;
+	text-align: center;
 }
 h2{
 	color: white;
+	text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+a{
+	color: green;
+	text-align: center;
 }
 p{
 	color: white;
+	text-align: center;
 }
