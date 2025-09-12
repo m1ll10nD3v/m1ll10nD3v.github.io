@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   sodipodi:docname="m1ll10nD3v.svg"
+   sodipodi:docname="m1ll10nD3v_transparent.svg"
    inkscape:export-filename="m1ll10nD3v.png"
    inkscape:export-xdpi="119.5294"
    inkscape:export-ydpi="119.5294"
@@ -56,14 +56,6 @@
        height="420.57309"
        id="rect1-3" />
   </defs>
-  <rect
-     style="fill:#000000;fill-opacity:1;stroke-width:14.8197"
-     id="rect2"
-     width="170"
-     height="115"
-     x="0"
-     y="4.2701271e-05"
-     inkscape:label="Background" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -76,7 +68,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
          x="20.820312"
          y="346.31491"
-         id="tspan1">10</tspan></text>
+         id="tspan3">10</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(3.4865509,0,0,3.4201737,75.631602,-1154.9582)"
@@ -84,6 +76,6 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-3);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.00002;stroke-dasharray:none"><tspan
          x="20.820312"
          y="346.31491"
-         id="tspan2">6</tspan></text>
+         id="tspan4">6</tspan></text>
   </g>
 </svg>
