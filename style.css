@@ -11,6 +11,19 @@ h2{
 	color: white;
 	text-align: center;
 }
+
+.svg-container {
+  width: 100%;      /* container spans full width */
+  max-width: 500px; /* optional: limits size on large screens */
+  margin: 0 auto;   /* centers it horizontally */
+}
+
+.svg-container svg {
+  width: 100%;      /* scales SVG to container width */
+  height: auto;     /* preserves aspect ratio */
+  display: block;   /* removes extra space below SVG */
+}
+
 img {
   display: block;
   margin: auto;
