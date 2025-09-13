@@ -1,5 +1,5 @@
 body{
-	background: linear-gradient(#222222, #000000);
+	background: repeating-radial-gradient(circle, red 0, red 10px, yellow 10px, yellow 20px);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 }
