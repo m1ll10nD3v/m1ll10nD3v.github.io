@@ -24,3 +24,16 @@ p{
 	color: white;
 	text-align: center;
 }
+.image-container {
+  width: 100%;       /* Or a fixed size like 500px */
+  max-width: 800px;  /* Prevents container from getting too large */
+}
+
+.responsive-img {
+  display: block;     /* Forces the image onto its own line */
+  margin-left: auto;  /* Pushes the image from the left */
+  margin-right: auto; /* Pushes the image from the right */
+  
+  max-width: 100%;    /* Keep your existing scaling code */
+  height: auto;
+}
