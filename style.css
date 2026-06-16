@@ -20,7 +20,7 @@ p{
 	text-align: center;
 }
 .image-container {
-  width: 50%;       /* Or a fixed size like 500px */
+  width: 1%;       /* Or a fixed size like 500px */
   max-width: auto;  /* Prevents container from getting too large */
 }
 
@@ -29,6 +29,6 @@ p{
   margin-left: auto;  /* Pushes the image from the left */
   margin-right: auto; /* Pushes the image from the right */
   
-  max-width: 100%;    /* Keep your existing scaling code */
+  max-width: 25%;    /* Keep your existing scaling code */
   height: auto;
 }
