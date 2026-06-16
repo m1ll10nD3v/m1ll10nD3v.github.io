@@ -30,7 +30,7 @@ p{
   margin-left: auto;  /* Pushes the image from the left */
   margin-right: auto; /* Pushes the image from the right */
   
-  width: 250%;         /* Scales image to fill the container width */
+  width: 100%;         /* Scales image to fill the container width */
   max-width: 500px;    /* Prevents image from blowing up too large */
   height: auto;
 }
