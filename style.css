@@ -26,9 +26,11 @@ p{
 
 .responsive-img {
   display: block;     /* Forces the image onto its own line */
+  margin: 0 auto;      /* Centers the image horizontally */
   margin-left: auto;  /* Pushes the image from the left */
   margin-right: auto; /* Pushes the image from the right */
   
-  max-width: 25%;    /* Keep your existing scaling code */
+  width: 100%;         /* Scales image to fill the container width */
+  max-width: 600px;    /* Prevents image from blowing up too large */
   height: auto;
 }
