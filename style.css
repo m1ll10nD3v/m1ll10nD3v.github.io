@@ -11,11 +11,6 @@ h2{
 	color: white;
 	text-align: center;
 }
-img {
-  display: block;
-  margin: auto;
-  width: 50%;
-}
 a{
 	color: green;
 	text-align: center;
@@ -25,7 +20,7 @@ p{
 	text-align: center;
 }
 .image-container {
-  width: 100%;       /* Or a fixed size like 500px */
+  width: 50%;       /* Or a fixed size like 500px */
   max-width: auto;  /* Prevents container from getting too large */
 }
 
