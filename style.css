@@ -20,7 +20,7 @@ p{
 	text-align: center;
 }
 .image-container {
-  width: 350%;       /* Or a fixed size like 500px */
+  width: 200%;       /* Or a fixed size like 500px */
   max-width: auto;  /* Prevents container from getting too large */
 }
 
