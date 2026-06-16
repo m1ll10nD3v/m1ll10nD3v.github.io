@@ -34,6 +34,6 @@ p{
   margin-left: auto;  /* Pushes the image from the left */
   margin-right: auto; /* Pushes the image from the right */
   
-  max-width: 100%;    /* Keep your existing scaling code */
+  max-width: 50%;    /* Keep your existing scaling code */
   height: auto;
 }
