@@ -31,6 +31,6 @@ p{
   margin-right: auto; /* Pushes the image from the right */
   
   width: 75%;         /* Scales image to fill the container width */
-  max-width: 75px;    /* Prevents image from blowing up too large */
+  max-width: 300px;    /* Prevents image from blowing up too large */
   height: auto;
 }
