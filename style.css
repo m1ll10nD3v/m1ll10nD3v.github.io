@@ -35,3 +35,7 @@ p{
   max-width: 100%;    /* Prevents image from blowing up too large */
   height: auto;
 }
+
+.center-container {
+  text-align: center;
+}
