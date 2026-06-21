@@ -65,18 +65,11 @@ p{
   width: 300px;
   height: auto;
   border-radius: 25px;
-  
-  /* Outline */
-  outline-style: solid;
-  /* Old Color: #fc6b03 */
-  outline-color: #ffffff;
-  outline-width: 1px;
 
-  transition: width 0.3s ease, border-radius 0.3s ease, outline-width 0.1s ease;
+  transition: width 0.3s ease, border-radius 0.3s ease;
   will-change: width;
   will-change: height;
   will-change: border-radius;
-  will-change: outline-width;
 }
 
 .gallery_content:hover {
