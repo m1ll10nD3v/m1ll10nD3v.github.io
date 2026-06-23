@@ -73,6 +73,8 @@ p{
 
 @media (pointer: coarse) {
   #interaction-tip {
+    font-size: 0%;
+    height: 0%;
     width: 0%;
   }
 }
