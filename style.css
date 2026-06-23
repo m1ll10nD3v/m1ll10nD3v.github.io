@@ -78,9 +78,7 @@ p{
   -webkit-touch-callout: none;
 
   transition: width 0.3s ease, border-radius 0.3s ease;
-  will-change: width;
-  will-change: height;
-  will-change: border-radius;
+  will-change: width, height, border-radius;
 }
 
 .no-border-radius {
