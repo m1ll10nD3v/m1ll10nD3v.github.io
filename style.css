@@ -4,6 +4,24 @@ html, body {
   box-sizing: border-box;
 }
 
+#youtube-svg {
+  width: 100%;
+  min-width: 50px;
+  max-width: 100px;
+}
+
+#game-jolt-svg {
+  width: 100%;
+  min-width: 300px;
+  max-width: 600px;
+}
+
+#linktree-svg {
+  width: 100%;
+  min-width: 400px;
+  max-width: 800px;
+}
+
 body{
   background: linear-gradient(#222222, #000000);
   background-repeat: no-repeat;
@@ -20,10 +38,6 @@ h2{
 a{
   color: white;
   text-align: center;
-
-  transition: font-size 0.3s ease, color 0.3s ease;
-  will-change: font-size;
-  will-change: color;
 }
 p{
   color: white;
@@ -57,7 +71,13 @@ p{
   }
 }
 
-.center-container {
+@media (pointer: coarse) {
+  #interaction-tip {
+    width: 0%;
+  }
+}
+
+.link-container {
   text-align: center;
 }
 
@@ -78,7 +98,7 @@ p{
   -webkit-touch-callout: none;
 
   transition: width 0.3s ease, border-radius 0.3s ease;
-  will-change: width, height, border-radius;
+  will-change: width, height, border-radius, font-size;
 }
 
 .no-border-radius {
@@ -121,14 +141,6 @@ p{
   overflow: auto;
 }
 
-a:hover {
-  font-size: calc(100% + 25%);
-}
-
-#youtube-button:hover {
-  color: red;
-}
-
-#game-jolt-button:hover {
-  color: green;
+.link-button {
+  display: inline-block;
 }
